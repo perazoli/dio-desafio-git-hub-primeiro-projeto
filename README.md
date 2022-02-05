@@ -1,2 +1,2 @@
-# dio-desafio-git-hub-primeiro-projeto
+# Repositório do Desafio GIT/GITHUB da DIO
 Primero projeto do desafio DIO Take Blip
